@@ -1,4 +1,4 @@
-# OOP 4: Avanceret objektorienteret programmering
+# OOP-integration workshop
 
 - **Lecture specific files**: files/* – `En mappe med filer til øvelser og eksempler fra undervisningen.`
 
@@ -36,7 +36,7 @@ Følg denne guide nøje for at være klar til undervisningen:
   - `jupyter`
 - Download eller opdater materialet:
   ```bash
-  cd ~/ST2-AnvendtProgrammering/oop_4
+  cd ~/ST2-AnvendtProgrammering/oop_4_workshop
   git pull
   ```
 
