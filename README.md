@@ -27,6 +27,14 @@ Følg denne guide nøje for at være klar til undervisningen:
 
 **Formål:** Forstå arv, polymorfi og avancerede objektorienterede design patterns i Python.
 
+**Til Flowcharts of class diagrammer:**  
+Her er der 2 muligheder. Jeg bruger personligt `Mermaid` idag. 
+Men jeg startede med `DrawIO` hjemmesiden.
+- [Mermaid (https://mermaid.live)](https://mermaid.live)
+  - [Flowcharts](https://mermaid.js.org/syntax/flowchart.html)
+  - [Class Diagrams](https://mermaid.js.org/syntax/classDiagram.html)
+- [Draw IO (https://draw.io)](https://app.diagrams.net/)
+
 ---
 
 ### 2. Installationer og opsætning
