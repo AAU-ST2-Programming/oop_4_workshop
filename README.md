@@ -6,7 +6,8 @@
 
 ## Forberedelse til lektionen
 
-Følg denne guide nøje for at være klar til undervisningen:
+**Introduktion af Workshop Video**:
+- [OOP Workshop Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=070c43e2-02bd-4564-b204-b3fd009ac7e5)
 
 **Literature**
 - [Learn Python](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
