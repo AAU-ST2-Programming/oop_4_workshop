@@ -8,24 +8,6 @@
 
 Følg denne guide nøje for at være klar til undervisningen:
 
-### 1. Literatur
-
-**Primær litteratur:**
-- [Think Python, 2nd Edition af Allen B. Downey (online bog)](https://allendowney.github.io/ThinkPython/)
-  - **Kapitel 18: Arv (Inheritance)**  
-    Hvordan man kan arve fra eksisterende klasser og skabe klassehierarkier.
-  - **Kapitel 19: Klasser og metoder (avanceret)**  
-    Dybere dykk ned i klassedesign og metoders rolle.
-- [Python for Everybody af Charles Severance (PDF)](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
-  - Kapitel 14–15: Avanceret objektorienteret programmering
-- [Data Wrangling with Python af Jacek Gołębiewski (PDF)](https://datawranglingpy.gagolewski.com/datawranglingpy.pdf)
-  - Kapitel 3–4: Datastrukturer og deres manipulation
-
-**Supplerende litteratur:**
-- [Python - Inheritance (Tutorialspoint)](https://www.tutorialspoint.com/python/python_inheritance.htm)
-- [Python - Polymorphism (Tutorialspoint)](https://www.tutorialspoint.com/python/python_polymorphism.htm)
-
-**Formål:** Forstå arv, polymorfi og avancerede objektorienterede design patterns i Python.
 
 **Til Flowcharts of class diagrammer:**  
 Her er der 2 muligheder. Jeg bruger personligt `Mermaid` idag. 
@@ -50,14 +32,6 @@ Men jeg startede med `DrawIO` hjemmesiden.
 
 ---
 
-## Lektionens fokus
-
-- Arv og klassehierarkier
-- Polymorfi og interfaces
-- Abstrakt klasser
-- Design patterns i Python
-
----
 
 ## Forventninger til forberedelse og undervisning
 
@@ -82,4 +56,4 @@ Men jeg startede med `DrawIO` hjemmesiden.
 
 ---
 
-**Husk:** Brug "Think Python" som din primære kilde til litteratur og reference – især kapitel 18-19!
+**Husk:** Brug "Think Python" som din primære kilde til litteratur og reference
