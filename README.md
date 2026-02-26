@@ -8,6 +8,9 @@
 
 Følg denne guide nøje for at være klar til undervisningen:
 
+**Literature**
+- [Learn Python](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
+  - Kapitel 7, fokuser primær fokus på 7.8 og 7.9
 
 **Til Flowcharts of class diagrammer:**  
 Her er der 2 muligheder. Jeg bruger personligt `Mermaid` idag. 
