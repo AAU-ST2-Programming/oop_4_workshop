@@ -11,6 +11,8 @@ Følg denne guide nøje for at være klar til undervisningen:
 **Literature**
 - [Learn Python](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
   - Kapitel 7, fokuser primær fokus på 7.8 og 7.9
+- [Think Python](https://allendowney.github.io/ThinkPython/chap13.html)
+  - kapitel 13
 
 **Til Flowcharts of class diagrammer:**  
 Her er der 2 muligheder. Jeg bruger personligt `Mermaid` idag. 
@@ -57,6 +59,3 @@ Men jeg startede med `DrawIO` hjemmesiden.
 - Opgaverne bygger videre på hinanden og bliver gradvist sværere.
 - Til eksamen vil der kun være en opgavebeskrivelse – du skal selv kunne vurdere, hvordan opgaven løses.
 
----
-
-**Husk:** Brug "Think Python" som din primære kilde til litteratur og reference
