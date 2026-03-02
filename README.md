@@ -10,9 +10,9 @@
 - [OOP Workshop Video](https://panopto.aau.dk/Panopto/Pages/Viewer.aspx?id=070c43e2-02bd-4564-b204-b3fd009ac7e5)
 
 **Literature**
-- [Learn Python](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
+- [Python for Everybody af Charles Severance (PDF)](https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
   - Kapitel 7, fokuser primær fokus på 7.8 og 7.9
-- [Think Python](https://allendowney.github.io/ThinkPython/chap13.html)
+- [Think Python, 3rd Edition af Allen B. Downey (online bog)](https://allendowney.github.io/ThinkPython/chap13.html)
   - kapitel 13
 
 **Til Flowcharts of class diagrammer:**  
