@@ -32,7 +32,8 @@ Men jeg startede med `DrawIO` hjemmesiden.
   - `jupyter`
 - Download eller opdater materialet:
   ```bash
-  cd ~/ST2-AnvendtProgrammering/oop_4_workshop
+  git clone https://github.com/AAU-ST2-Programming/oop_4_workshop.git
+  cd oop_4_workshop
   git pull
   ```
 
